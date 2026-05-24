@@ -1,0 +1,82 @@
+aid: oklo
+name: Oklo
+description: >-
+  Oklo Inc. is a Santa Clara, California advanced fission company designing
+  and deploying small modular reactors under the Aurora powerhouse brand.
+  The Aurora is a liquid-metal (sodium) cooled, metal-fueled fast reactor
+  derived from the Experimental Breeder Reactor-II (EBR-II) lineage,
+  engineered as a "walk-away safe" passively cooled system that is
+  self-stabilizing and self-controlling under loss-of-coolant and
+  loss-of-shutdown conditions. Oklo's reactors are intended to run on
+  recycled high-assay low-enriched uranium (HALEU) fuel, including legacy
+  EBR-II material, with the company building out three vertically
+  integrated fast-reactor businesses: clean power generation, advanced
+  nuclear fuel fabrication and recycling, and medical radioisotope
+  production. The first commercial Aurora is targeted for operation at
+  Idaho National Laboratory (INL) in late 2027 to early 2028, supported
+  by selection into the DOE Reactor Pilot Program and Fuel Line Pilot
+  Projects, and the company has completed an NRC Phase 1 pre-application
+  assessment. Oklo went public in May 2024 via merger with AltC
+  Acquisition Corp (a SPAC co-founded by Sam Altman, who serves as
+  chairman) and trades on the NYSE under ticker OKLO. Oklo's commercial
+  posture is utility-scale and industrial — selling power, fuel cycle
+  services, and isotopes to data center operators, defense customers,
+  and industrial offtakers — and the company exposes no public developer
+  API, SDK, or open source software.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Energy
+  - Nuclear
+  - Advanced Fission
+  - Small Modular Reactor
+  - Fast Reactor
+  - Sodium Cooled
+  - HALEU
+  - Aurora Powerhouse
+  - Fuel Recycling
+  - Radioisotopes
+  - Clean Energy
+  - Data Center Power
+  - Hardware
+url: https://raw.githubusercontent.com/api-evangelist/oklo/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://oklo.com
+  - type: Technology
+    url: https://oklo.com/technology
+  - type: Energy
+    url: https://oklo.com/energy
+  - type: FuelRecycling
+    url: https://oklo.com/fuel-recycling
+  - type: Isotopes
+    url: https://oklo.com/isotopes
+  - type: About
+    url: https://oklo.com/about
+  - type: Newsroom
+    url: https://oklo.com/newsroom
+  - type: Investors
+    url: https://investors.oklo.com
+  - type: Careers
+    url: https://oklo.com/careers
+  - type: Contact
+    url: https://oklo.com/contact
+  - type: Twitter
+    url: https://twitter.com/oklo
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/oklo-inc
+  - type: YouTube
+    url: https://www.youtube.com/@OkloInc
+  - type: Facebook
+    url: https://www.facebook.com/OkloInc
+  - type: Instagram
+    url: https://www.instagram.com/oklo_inc
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
