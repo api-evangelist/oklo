@@ -65,10 +65,12 @@ tags:
   - Hardware
 url: https://raw.githubusercontent.com/api-evangelist/oklo/refs/heads/main/apis.yml
 created: '2026-05-24'
-modified: '2026-05-24'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://oklo.com/newsroom/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/oklo-domain-security.yml
   - type: Website
